@@ -15,7 +15,6 @@
 This is a Pokedex app built using [Next.js](https://nextjs.org/) and [TailwindCSS](http://tailwindcss.com).
 
 [Check out the Website](http://nextdex.vercel.app).
-Leave a 🌟 if you liked it. That would make my day 😊.
 
 ## Screenshots
 <img src="https://github.com/drkPrince/dex-next/blob/main/screenshots/dex.png" />
@@ -48,6 +47,6 @@ Leave a 🌟 if you liked it. That would make my day 😊.
 
 ## Copyright
 
-Pokémon and Pokédex are registered trademarks of their respective owners. No copyright infringement intended. This is just a fun little side project made by a PokeFan.
+Pokémon and Pokédex are registered trademarks of their respective owners. No copyright infringement intended. This is just a fun little side project!
 
 
