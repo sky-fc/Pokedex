@@ -86,17 +86,15 @@ export default function Home({ allPokemonData }) {
       <footer className="px-12 pb-12 text-left mt-20 text-xs md:text-base gn font-bold tracking-wide text-gray-600 leading-loose space-y-3">
         <h3>
           Disclaimer - Pokemon and Pokédex are registered trademarks of their
-          respective owners. No infringement intended. This is just a fun little
-          side project.
+          respective owners. No infringement intended.
         </h3>
         <h3 className="">
-          Made with NextJS, TailwindCSS, PokeAPI and a lot of wonderful
-          childhood memories. Deployed on Vercel.
+          Made with NextJS, TailwindCSS, PokeAPI.
         </h3>
         <div className="flex text-gray-800">
           <a
             className="hover:underline"
-            href="https://github.com/drkPrince/dex-next"
+            href="https://github.com/sky-fc/Pokedex"
           >
             Check out the code on Github
           </a>
