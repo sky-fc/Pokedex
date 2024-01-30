@@ -1,9 +1,4 @@
 
-<div align="center">
-	<img src="https://github.com/drkPrince/dex-next/blob/main/public/pokedex.png?raw=true" width='200'/>
-</div>
-
-
 ![Website](https://img.shields.io/badge/Website-Up-green)
 ![Next](https://img.shields.io/badge/NextJS-10.0.7-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2.0.3-blueviolet)
@@ -15,6 +10,9 @@
 This is a Pokedex app built using [Next.js](https://nextjs.org/) and [TailwindCSS](http://tailwindcss.com).
 
 ## Screenshots
+
+<img src="https://github.com/sky-fc/Pokedex/blob/main/screenshots/dex.png"/>
+<img src="https://github.com/sky-fc/Pokedex/blob/main/screenshots/charizard.png"/>
 
 
 ## Features
